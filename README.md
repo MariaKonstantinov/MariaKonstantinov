@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm Maria</h1>
 <h3 align="center">A passionate Full Stack Developer</h3>
-<img align="right" alt="coding" width="200" src=https://res.cloudinary.com/practicaldev/image/fetch/s--2bZIjPGC--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/i/d4tvukbt5mra37cvwklk.gif>
+<img align="right" alt="coding" width="240" src=https://res.cloudinary.com/practicaldev/image/fetch/s--2bZIjPGC--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/i/d4tvukbt5mra37cvwklk.gif>
 
 - 🔭 I’m currently working on: [Natours travel website](https://github.com/MariaKonstantinov/Natours_travel_website)
 
 - 📝 I’m currently learning: **SASS, JavaScript, Webpack and React**
 
-- 📝 On my learning ToDo list: **Node.js, Express, MongoDB, SQL + NoSQL, Bootstrap and more**
+- 📝 On my learning ToDo list: **Node.js, Express, MongoDB, SQL + NoSQL, Bootstrap**
 
 - 🌱 Facts about me: **I speak 3 languages, I love animals and travelling**
 
