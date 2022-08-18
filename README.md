@@ -4,7 +4,7 @@
 
 - :computer: I’m currently working on: [Natours travel website](https://github.com/MariaKonstantinov/Natours_travel_website)
 
-- 📝 I’m currently learning: **SASS, JavaScript, Webpack and React**
+- 📝 I’m currently learning: **Sass, JavaScript, Webpack and React**
 
 - :calendar: On my learning ToDo list: **Node.js, Express, MongoDB, SQL + NoSQL, Bootstrap**
 
