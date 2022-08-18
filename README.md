@@ -6,7 +6,7 @@
 
 - 📝 I’m currently learning: **SASS, JavaScript, Webpack and React**
 
-- 📝 On my learning ToDo list: **Node.js, Express, MongoDB, Bootstrap and more**
+- 📝 On my learning ToDo list: **Node.js, Express, MongoDB, SQL + NoSQL, Bootstrap and more**
 
 - 🌱 Facts about me: **I speak 3 languages, I love animals and travelling**
 
