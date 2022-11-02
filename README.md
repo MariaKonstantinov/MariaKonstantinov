@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Maria</h1> 
 <h3 align="center">A passionate Full Stack Developer  :rocket:</h3>
 
- :computer: I’m currently working on: [Natours travel website](https://github.com/MariaKonstantinov/Natours_travel_website)
+ :computer: I’m currently working on: [Guess my number game](https://github.com/MariaKonstantinov/Guess_number_game)
 
  📝 I’m currently learning: **Sass, JavaScript, Webpack and React**
 
