@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Maria</h1> 
 <h3 align="center">A passionate Full Stack Developer  :rocket:</h3>
 
- :computer: I’m currently working on: [Around the US](https://github.com/MariaKonstantinov/web_project_4)
+ :computer: I’m currently working on: [Project 7 - Plant Stories](https://github.com/MariaKonstantinov/web_project_4)
 
  📝 I’m currently learning: **Sass, JavaScript, Webpack and React**
 
