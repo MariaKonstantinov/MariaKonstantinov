@@ -3,9 +3,9 @@
 
  :computer: I’m currently working on: [Project 7 - Plant Stories](https://github.com/MariaKonstantinov/web_project_4)
 
- 📝 I’m currently learning: **Sass, JavaScript, Webpack and React**
+ 📝 I’m currently learning: **Sass, JavaScript, Webpack, React**
 
- :calendar: On my learning ToDo list: **Node.js, Express, MongoDB, SQL + NoSQL, Bootstrap, Figma, Webflow**
+ :calendar: On my learning ToDo list: **Node.js, Express, MongoDB, SQL + NoSQL, Bootstrap, Figma UI UX, Webflow**
 
  🌱 Facts about me: **I speak 3 languages, I love animals and travelling**
 
