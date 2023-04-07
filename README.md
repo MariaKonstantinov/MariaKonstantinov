@@ -5,9 +5,9 @@
  
  📝 My skills set: **HTML5, CSS3, Sass, JavaScript, Webpack, Node.js**
 
- 📝 I’m currently learning: **React**
+ 📝 I’m currently learning: **React / React Hooks**
 
- :calendar: On my learning ToDo list 2023: **Express, MongoDB, SQL + NoSQL, Figma UI**
+ :calendar: On my learning ToDo list 2023: **Express, MongoDB, SQL + NoSQL, Figma UI, Three.js, Blender**
 
  🌱 Facts about me: **I aim to write efficient clean code and I have a deep interest in creating modern UI design**
 
