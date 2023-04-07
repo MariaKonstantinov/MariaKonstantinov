@@ -3,7 +3,7 @@
 
  :computer: I’m currently working on: [Project 9 - Travel Stories](https://github.com/MariaKonstantinov/web_project_4)
  
- 📝 My skills set: **HTML5, CSS3, Sass, JavaScript, Webpack, Node.js**
+ 📝 My tech skills set: **HTML5, CSS3, Sass, JavaScript, Webpack, Node.js**
 
  📝 I’m currently learning: **React / React Hooks**
 
