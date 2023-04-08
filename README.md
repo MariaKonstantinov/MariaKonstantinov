@@ -7,7 +7,7 @@
 
  📝 I’m currently learning: **React / React Hooks**
 
- :calendar: On my learning ToDo list 2023: **Express, MongoDB, SQL + NoSQL, Figma UI, Three.js, Blender**
+ :calendar: On my learning ToDo list 2023: **Express, MongoDB, SQL + NoSQL, Figma UI, Three.js, Spline**
 
  🌱 Facts about me: **Apart from programming, I have a deep interest in creating modern and beautiful UI designs**
 
