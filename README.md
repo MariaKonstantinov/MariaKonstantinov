@@ -7,7 +7,7 @@
 
  📝 I’m currently learning: **React / React Hooks, TypeScript, Spline, Framer**
 
- :calendar: In my study plan till end of 2023: **Node.js, Express, MongoDB, SQL + NoSQL, Figma UI**
+ :calendar: In my study plan for 2023: **Node.js, Express, MongoDB, SQL + NoSQL, Figma UI**
 
  🌱 Facts about me: **Apart from programming, I have a deep interest in creating modern and beautiful UI designs**
 
