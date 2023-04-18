@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Maria</h1> 
 <h3 align="center">A passionate Full Stack Developer with the focus on UI design :rocket:</h3>
 
- :computer: I’m currently working on: [Project 9 - Travel Stories](https://github.com/MariaKonstantinov/web_project_4)
+ :computer: I’m currently working on: [Project 10 - Around-React](https://github.com/MariaKonstantinov/around-react)
  
  📝 My tech skills set: **HTML5, CSS3, Sass, JavaScript, Webpack, Node.js**
 
