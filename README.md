@@ -3,11 +3,11 @@
 
  :computer: I’m currently working on: [Project 10 - Around-React](https://github.com/MariaKonstantinov/around-react)
  
- 📝 My tech skills set: **HTML5, CSS3, Sass, JavaScript, Webpack, Node.js**
+ 📝 My tech skills set: **HTML5, CSS3, Sass, JavaScript, Webpack**
 
  📝 I’m currently learning: **React / React Hooks, TypeScript, Spline, Framer**
 
- :calendar: In my study plan till end of 2023: **Express, MongoDB, SQL + NoSQL, Figma UI**
+ :calendar: In my study plan till end of 2023: **Node.js, Express, MongoDB, SQL + NoSQL, Figma UI**
 
  🌱 Facts about me: **Apart from programming, I have a deep interest in creating modern and beautiful UI designs**
 
