@@ -3,7 +3,7 @@
 
  :computer: I’m currently working on: [Project 10 - Around-React](https://github.com/MariaKonstantinov/around-react)
  
- 📝 My tech skills set: **HTML5, CSS3, Sass, JavaScript, Webpack**
+ 📝 My tech skills set: **HTML5, CSS3, Sass, JavaScript**
 
  📝 I’m currently learning: **React, TypeScript | 3D design: Spline, Framer**
 
