@@ -5,9 +5,9 @@
  
  📝 My tech skills set: **HTML5, CSS3, Sass, JavaScript**
 
- 📝 I’m currently learning: **React, TypeScript | 3D design: Spline, Framer**
+ 📝 I’m currently learning: **React, TypeScript | 3D design: Spline**
 
- :calendar: In my study plan for 2023: **Next.js, Node.js, Express, MongoDB, SQL + NoSQL | UI design: Figma**
+ :calendar: In my study plan for 2023: **Next.js, Node.js, Express, MongoDB, SQL + NoSQL | UI design: Figma | Frameworks: Bootstrap 5**
 
  🌱 Facts about me: **Apart from programming, I have a deep interest in creating modern and beautiful UI designs**
 
