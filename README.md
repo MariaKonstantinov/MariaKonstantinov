@@ -7,7 +7,7 @@
 
  📝 I’m currently learning: **React, TypeScript | 3D design: Spline**
 
- :calendar: In my study plan for 2023: **Next.js, Node.js, Express, MongoDB, SQL + NoSQL | UI design: Figma | Frameworks: Bootstrap 5**
+ :calendar: In my study plan for 2023: **Next.js, Node.js, Express, MongoDB, SQL + NoSQL | UI design: Figma**
 
  🌱 Facts about me: **Apart from programming, I have a deep interest in creating modern and beautiful UI designs**
 
