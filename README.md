@@ -3,7 +3,7 @@
 
  :computer: I’m currently working on: [Project 10 - Around-React](https://github.com/MariaKonstantinov/around-react)
 
- 📝 I’m currently learning: **![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) | 3D design: Spline**
+ 📝 I’m currently learning: **TypeScript | 3D design: Spline**
 
  :calendar: 2023 plans: **Next.js, Node.js, Express, MongoDB, SQL + NoSQL | UI design: Figma**
 
