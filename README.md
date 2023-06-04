@@ -1,13 +1,11 @@
 <h1 align="center">Hi 👋, I'm Maria</h1> 
-<h3 align="center">A passionate Full Stack Developer with the focus on UI design :rocket:</h3>
+<h3 align="center">A passionate junior Full Stack Developer with the focus on UI design :rocket:</h3>
 
  :computer: I’m currently working on: [Project 10 - Around-React](https://github.com/MariaKonstantinov/around-react)
- 
- 📝 My tech skills set: **HTML5, CSS3, Sass, JavaScript**
 
  📝 I’m currently learning: **React, TypeScript | 3D design: Spline**
 
- :calendar: In my study plan for 2023: **Next.js, Node.js, Express, MongoDB, SQL + NoSQL | UI design: Figma**
+ :calendar: 2023 plans: **Next.js, Node.js, Express, MongoDB, SQL + NoSQL | UI design: Figma**
 
  🌱 Facts about me: **Apart from programming, I have a deep interest in creating modern and beautiful UI designs**
 
@@ -19,6 +17,15 @@
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+
+<br/>
+
+## 🍀Additional skills
+
+✅ Object Oriented Programming 
+✅ BEM methodology  
+✅ Git & GitHub 
+✅ Figma
 
 <br/>
 
