@@ -20,16 +20,6 @@
 
 <br/>
 
-## 🍀Additional skills
-
-✅ Object Oriented Programming 
-✅ BEM methodology  
-✅ Git & GitHub 
-✅ Figma
-
-<br/>
-
-
 
 <div align="center"><img align="#" src="https://github-readme-stats.vercel.app/api/top-langs?username=mariakonstantinov&show_icons=true&locale=en&layout=compact" alt="mariakonstantinov" width="400" height="200"/></div>
 
