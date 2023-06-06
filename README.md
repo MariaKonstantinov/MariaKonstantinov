@@ -3,9 +3,9 @@
 
  :computer: I’m currently working on: [Project 10 - Around-React](https://github.com/MariaKonstantinov/around-react)
 
- 📝 I’m currently learning: **TypeScript | 3D design: Spline**
+ 📝 I’m currently learning: **TypeScript, Node.js, Express | 3D design: Spline**
 
- :calendar: 2023 plans: **Next.js, Node.js, Express, MongoDB, SQL + NoSQL | UI design: Figma**
+ :calendar: 2023 plans: **Next.js, MongoDB, SQL + NoSQL | UI design: Figma**
 
  🌱 Facts about me: **Apart from programming, I have a deep interest in creating modern and beautiful UI designs**
 
