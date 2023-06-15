@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Maria</h1> 
-<h3 align="center">A passionate junior Full Stack Developer with the focus on UI design :rocket:</h3>
+<h3 align="center">A passionate junior Full Stack Developer :rocket:</h3>
 
  :computer: I’m currently working on: [Project 10 - Around-React](https://github.com/MariaKonstantinov/around-react)
 
