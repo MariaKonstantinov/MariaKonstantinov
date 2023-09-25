@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Maria</h1> 
 <h3 align="center">A passionate junior Full Stack Developer :rocket:</h3>
 
- :computer: I’m currently working on: [Project 14 - React-around-auth](https://github.com/MariaKonstantinov/react-around-auth)
+ :computer: I’m currently working on: [Project 15 - react-around-api-full](https://github.com/MariaKonstantinov/react-around-api-full)
 
  📝 I’m currently learning: **TypeScript, Node.js, Express, MongoDB**
 
