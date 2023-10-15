@@ -3,9 +3,9 @@
 
  :computer: I’m currently working on: [Final Project - news-explorer-api](https://github.com/MariaKonstantinov/news-explorer-api)
 
- 📝 I’m currently learning: **TypeScript, Node.js, Express, MongoDB**
+ 📝 I’m currently learning: **TypeScript, MongoDB, Next.js, Redux, Docker**
 
- :calendar: 2023 plans: **Next.js, SQL + NoSQL | UI design: Figma | 3D design: Spline**
+ :calendar: 2023 plans: **SQL, Angular, Vue, Design Patterns, Java | 3D design: Spline**
 
  🌱 Facts about me: **Apart from programming, I have a deep interest in creating modern and beautiful UI designs**
 
