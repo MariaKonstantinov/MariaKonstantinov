@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Maria</h1> 
-<h3 align="center">A passionate Full Stack Web Developer :rocket:</h3>
+<h3 align="center">A Full Stack Web Developer :rocket:</h3>
 
  :computer: I’m currently working on: [Final Project - news-explorer-api](https://github.com/MariaKonstantinov/news-explorer-api)
 
