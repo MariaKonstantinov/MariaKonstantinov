@@ -5,7 +5,7 @@
 
  📝 I’m currently learning: **TypeScript, MongoDB & Mongoose, Next.js, Redux**
 
- :calendar: 2023 plans: **Docker, SQL, Angular, Vue, Design Patterns, Java**
+ :calendar: learning next in 2023: **Docker, SQL, Angular, Vue, Design Patterns, Java**
 
  🌱 Facts about me: **Apart from programming, I have a deep interest in creating modern UI designs**
 
