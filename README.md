@@ -3,7 +3,7 @@
 
  :computer: I’m currently working on: [Final Project - news-explorer-api](https://github.com/MariaKonstantinov/news-explorer-api)
 
- 📝 I’m currently learning: **TypeScript, MongoDB & Mongoose, Next.js, Redux**
+ 📝 currently learning: **TypeScript, MongoDB & Mongoose, Next.js, Redux**
 
  :calendar: learning next in 2023: **Docker, SQL, Angular, Vue, Design Patterns, Java**
 
