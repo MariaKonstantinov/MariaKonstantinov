@@ -7,7 +7,7 @@
 
  :calendar: learning next in 2023: **Docker, SQL, Angular, Vue, Design Patterns, Java**
 
- 🌱 Facts about me: **Apart from programming, I have a deep interest in creating modern UI designs**
+ 🌱 Facts about me: **Apart from programming, I am interested in creating modern UI designs**
 
 <h3 align="center">&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp:small_blue_diamond: My Languages and Frameworks skill set :small_blue_diamond:</h3>
 
