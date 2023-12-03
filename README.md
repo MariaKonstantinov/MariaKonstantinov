@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Maria</h1> 
 <h3 align="center">A Full Stack Web Developer :rocket:</h3>
 
- :computer: I’m currently working on: [Final Project - news-explorer-api](https://github.com/MariaKonstantinov/news-explorer-api)
+ I’m currently working on: [Final Project - news-explorer-api](https://github.com/MariaKonstantinov/news-explorer-api)
 
  📝 Learning now: **TypeScript, MongoDB & Mongoose, Next.js, Redux, Bootstrap 5**
 
- :calendar: Learning next: **Docker, SQL, Angular, Vue, Design Patterns, Java**
+ Learning next: **Docker, SQL, Angular, Vue, Design Patterns, Java**
 
  🌱 Facts about me: **Apart from programming, I am interested in creating modern UI designs**
 
-<h3 align="center">&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp:small_blue_diamond: My Languages and Frameworks :small_blue_diamond:</h3>
+<h3 align="center">&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp: My Languages and Frameworks </h3>
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
