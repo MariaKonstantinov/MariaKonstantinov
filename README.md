@@ -3,11 +3,11 @@
 
  I’m currently working on: [Final Project - news-explorer-api](https://github.com/MariaKonstantinov/news-explorer-api)
 
- 📝 Learning now: **TypeScript, MongoDB & Mongoose, Next.js, Redux, Bootstrap**
+ 📝 Learning now: **TypeScript, MongoDB & Mongoose, Next.js, Redux, Bootstrap 5**
 
  Learning next: **Docker, SQL, Angular, Vue, Design Patterns, Java**
 
- 🌱 Facts about me: **Apart from programming, I am interested in creating modern UI designs**
+ 🌱 Facts about me: **Apart from programming, I am interested in creating modern UI designs and Digital PM**
 
 <h3 align="center">&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp My Languages and Frameworks </h3>
 
