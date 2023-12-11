@@ -7,7 +7,7 @@
 
  Learning next: **Docker, SQL, Angular, Vue, Design Patterns, Java**
 
- 🌱 Facts about me: **Apart from programming, I am interested in modern UI designs and Digital PM**
+ 🌱 Facts about me: **Apart from programming, I am interested in modern UI designs**
 
 <h3 align="center">&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp My Languages and Frameworks </h3>
 
