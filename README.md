@@ -5,7 +5,7 @@
 
  📝 Learning now: **TypeScript, MongoDB & Mongoose, Next.js, Redux, Bootstrap 5**
 
- Learning next: **Docker, SQL, Angular, Vue, Design Patterns, Java**
+ Learning next: **Docker, SQL, Design Patterns, Java**
 
  🌱 Facts about me: **Apart from programming, I am interested in modern UI designs**
 
