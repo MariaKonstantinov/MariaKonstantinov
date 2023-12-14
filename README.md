@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Maria</h1> 
 <h3 align="center">A Full Stack Web Developer :rocket:</h3>
 
- I’m currently working on: [Final Project - news-explorer-api](https://github.com/MariaKonstantinov/news-explorer-api)
+ I’m currently working on: [Final Project - news-explorer-api](https://github.com/MariaKonstantinov/news-explorer-frontend)
 
  📝 Learning now: **TypeScript, MongoDB & Mongoose, Next.js, Redux, Bootstrap 5**
 
