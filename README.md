@@ -5,7 +5,7 @@
 
  📝 Learning now: **TypeScript, MongoDB & Mongoose, Next.js, Redux, Bootstrap**
 
- Learning next: **Docker, SQL, Design Patterns, Java, Webflow, Figma**
+ Learning next: **Docker, SQL, Design Patterns, Java | Webflow, Figma**
 
  🌱 Facts about me: **Apart from programming, I am interested in modern UI designs**
 
