@@ -3,7 +3,7 @@
 
  I’m currently working on: [Final Project - news-explorer-frontend](https://github.com/MariaKonstantinov/news-explorer-frontend)
 
- 📝 Learning now: **TypeScript, MongoDB & Mongoose, Next.js, Redux, Bootstrap 5**
+ 📝 Learning now: **TypeScript, MongoDB & Mongoose, Next.js, Redux, Bootstrap**
 
  Learning next: **Docker, SQL, Design Patterns, Java | Webflow, Figma**
 
