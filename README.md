@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Maria</h1> 
 <h3 align="center">A Full Stack Web Developer :rocket:</h3>
 
- I’m currently working on: [Final Project - news-explorer-frontend](https://github.com/MariaKonstantinov/PrimeCart)
+ I’m currently working on: [eCommerce website - PrimeCart](https://github.com/MariaKonstantinov/PrimeCart)
 
  📝 Learning now: **TypeScript, MongoDB & Mongoose, Next.js, Redux, Bootstrap 5**
 
