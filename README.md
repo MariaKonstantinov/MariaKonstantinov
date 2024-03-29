@@ -3,9 +3,9 @@
 
  I’m currently working on: [eCommerce website - PrimeCart](https://github.com/MariaKonstantinov/PrimeCart)
 
- 📝 Learning now: **TypeScript, MongoDB, Next.js, Redux, Bootstrap**
+ 📝 Learning now: **TypeScript, SQL, Next.js, Redux, Bootstrap**
 
- Learning next: **Docker, SQL, Design Patterns, Java**
+ Learning next: **Docker, Design Patterns, Java**
 
  🌱 Facts about me: **Apart from programming, I am interested in modern UI designs**
 
