@@ -3,7 +3,7 @@
 
  I’m currently working on: [eCommerce website - PrimeCart](https://github.com/MariaKonstantinov/PrimeCart)
 
- 📝 Learning now: **TypeScript, SQL, Next.js, Redux, Bootstrap**
+ 📝 Learning now: **TypeScript, SQL, Next.js, Redux**
 
  Learning next: **Docker, Design Patterns, Java**
 
