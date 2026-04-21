@@ -1,11 +1,7 @@
 <h1 align="center">Hi 👋, I'm Maria</h1> 
-<h3 align="center">A Full Stack Web Developer :rocket:</h3>
+<h3 align="center">A curious mind :rocket:</h3>
 
- I’m currently working on: [eCommerce website - PrimeCart](https://github.com/MariaKonstantinov/PrimeCart)
-
- 📝 Learning now: **TypeScript, SQL, Next.js, Redux**
-
- Learning next: **Docker, Design Patterns, Java**
+ 📝 Learning now: **SQL, Python**
 
  🌱 Facts about me: **Apart from programming, I am interested in modern UI designs**
 
